@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=FDA5A5&height=150&section=header&text=Welcome!%20Seonghui's%20Github🎈&fontColor=fffd8b&fontSize=45&animation=fadeIn&fontAlignY=55)
+
 ### Hi there 👋
 
 <!--
